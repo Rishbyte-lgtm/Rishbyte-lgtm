@@ -1,16 +1,66 @@
-## Hi there 👋
+## Hi there 👋 I'm Amit Maurya
 
-<!--
-**Rishbyte-lgtm/Rishbyte-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder | Vision AI & Industrial Automation Engineer**  
+I build **camera-based inspection and automation systems** for manufacturing using **AI + PLC integration**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do
+- 🔍 Develop **Vision AI systems** for defect detection & quality inspection  
+- ⚙️ Integrate **AI models with Siemens PLCs** for real-time automation  
+- 🖥️ Build **operator-ready industrial software** (GUI + logic)  
+- 🏭 Focus on **practical, deployable factory solutions**
+
+---
+
+### 🛠️ Tech Stack
+**Vision & AI**
+- YOLOv8, OpenCV, Image Processing even custom engines
+- Object Detection & Industrial Inspection  
+
+**Automation**
+- Siemens S7 PLC  
+- TIA Portal, PLCSIM  
+- PLC ↔ Python communication (Snap7)
+
+**Software**
+- Python  
+- PyQt (Industrial GUI)  
+- Git & GitHub  
+
+---
+
+### 📌 Flagship Projects
+- 🔥 **Vision-Based Quality Inspection System**  
+  AI detects defects → Python processes → PLC triggers reject mechanism  
+
+- 🔗 **PLC–Python Integration System**  
+  Real-time read/write between Python & Siemens PLC  
+
+- 🖥️ **PyQt Vision Inspection GUI**  
+  Live camera feed, PASS/FAIL logic, PLC status dashboard  
+
+*(Check pinned repositories 👇)*
+
+---
+
+### 🎯 Startup Vision
+Building **affordable, custom Vision AI + PLC automation solutions** for  
+small & mid-scale manufacturing industries.
+
+---
+
+### 🤝 Looking For
+- Industrial collaboration  
+- Pilot projects & PoCs  
+- Automation & vision-based problem statements  
+
+---
+
+### 📫 Connect With Me
+- 🌐 MyWebsite: https://camera-vision.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-maurya-84b0922a5
+
+---
+
+⚡ *Turning cameras into intelligent industrial systems.*
