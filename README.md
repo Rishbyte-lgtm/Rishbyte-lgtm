@@ -58,7 +58,7 @@ small & mid-scale manufacturing industries.
 ---
 
 ### 📫 Connect With Me
-- 🌐 MyWebsite: https://camera-vision.vercel.app  
+- 🌐 MyWebsite: https://vision.coderishabhlab.qzz.io
 - 💼 LinkedIn: https://www.linkedin.com/in/amit-maurya-84b0922a5
 
 ---
